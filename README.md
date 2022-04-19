@@ -1,5 +1,4 @@
 # Tic Tac Toe AI
-This is a Tic Tac Toe AI project.
 
 This project will include an interactive Tic Tac Toe game, featuring an AI
 that the user can play against.
