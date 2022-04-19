@@ -1,4 +1,8 @@
-# multi_snake
-A small, local-multiplayer snake game project.
+# Tic Tac Toe AI
+This is a Tic Tac Toe AI project.
 
-Features include power ups, individual score calculation, and different gamemodes.
+This project will include an interactive Tic Tac Toe game, featuring an AI
+that the user can play against.
+
+The AI is planned to make optimized choices against a player
+giving it the highest probability of a win.
