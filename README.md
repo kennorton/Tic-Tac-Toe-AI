@@ -5,3 +5,7 @@ that the user can play against.
 
 The AI is planned to make optimized choices against a player
 giving it the highest probability of a win.
+
+# TODO's 
+- Complete full Skeleton
+- Add tests 
