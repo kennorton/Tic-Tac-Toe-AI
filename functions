@@ -1,0 +1,25 @@
+def menuGraphic():
+    print()
+    print("                                           WELCOME TO...                                          ")
+    print(" ______   __     ______         ______   ______     ______          ______   ______     ______.   ")   
+    print("/\__  _\ /\ \   /\  ___\       /\__  _\ /\  __ \   /\  ___\        /\__  _\ /\  __ \   /\  ___\   ")   
+    print("\/_/\ \/ \ \ \  \ \ \____  ---  \/_/\ \/ \ \  __ \  \ \ \____ ---  \/_/\ \/ \ \ \/\ \  \ \  __\.  ")
+    print("   \ \_\  \ \_\  \ \_____\         \ \_\  \ \_\ \_\  \ \_____\        \ \_\  \ \_____\  \ \_____\ ")
+    print("    \/_/   \/_/   \/_____/          \/_/   \/_/\/_/   \/_____/         \/_/   \/_____/   \/_____/ ")
+    print()
+    print("------------------------------------------------------------------------------------------------- ")
+
+def menuNav():
+    flag = True
+    while flag == True:
+        choice = input("What would you like to do? ")
+        if choice == "play":
+            pass
+            #game()
+            flag = False
+        elif choice == "settings":
+            pass
+            #settings()
+            flag = False
+        else:
+            print("Please choose something from the menu")
