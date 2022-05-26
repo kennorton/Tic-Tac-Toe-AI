@@ -7,5 +7,7 @@ The AI is planned to make optimized choices against a player
 giving it the highest probability of a win.
 
 # TODO's 
-- Complete full Skeleton
-- Add tests 
+- Psudo-Code skeleton
+- Working 2 player prototype
+- AI
+- Move to Pygame
