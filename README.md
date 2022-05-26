@@ -9,6 +9,7 @@ giving it the highest probability of a win.
 # How To Contribute
 
 Fork Repo
+
 Use a branch for changes, whether existing or new
 
 Make changes following current formatting in project
