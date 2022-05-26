@@ -1,1 +1,2 @@
-""" Add a test for every notable function created """
+""" Add a test for notable functions """
+
